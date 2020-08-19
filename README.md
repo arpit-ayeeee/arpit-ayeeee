@@ -1,6 +1,5 @@
 ### Hi there, I'm Arpit - aka arpit-ayeeee [website] 👋
 
-[![Website]](https://frugaldrip.herokuapp.com/)
 
 ## I'm an Information Science Student, and Front-end Web Developer!
 
@@ -10,7 +9,7 @@
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ### Spotify Playing 🎧
-[<img src="./img.jpg" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
+[<img src="img.jpg" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
 
 ### Connect with me:
 
