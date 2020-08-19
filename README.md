@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ### Spotify Playing 🎧
-[<img src="https://images.app.goo.gl/dH75hT9ikiTVF9TDA" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
+[<img src="https://photos.app.goo.gl/jGmwBsL9ER22qnty6" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
 
 ### Connect with me:
 
@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
