@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ### Spotify Playing 🎧
-[<img src="img.jpg" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
+[<img src="/img.jpg" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
 
 ### Connect with me:
 
@@ -27,7 +27,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/redux.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
