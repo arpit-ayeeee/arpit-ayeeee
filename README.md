@@ -1,16 +1,16 @@
-### Hi there, I'm Arpit - aka arpit-ayee[website] 👋
+### Hi there, I'm Arpit - aka arpit-ayeeee [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://frugaldrip.herokuapp.com/)
+[![Website]](https://frugaldrip.herokuapp.com/)
 
-## I'm a Information Science Student,and Front-end Web Developer!
+## I'm an Information Science Student, and Front-end Web Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning to go MERN Stack.
+- 🔭 I’m currently looking for Front-end Web Dev internships!
 - 🥅 2020 Goals: Contribute more to Open Source projects and work on my skills.
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ### Spotify Playing 🎧
-[<img src="https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=rOJwPxnGRFuz5xLSuLES5Q" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
+[<img src="./img.jpg" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
 
 ### Connect with me:
 
@@ -34,8 +34,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
 
-<br />
-<br />
 
 
 [website]: https://arpit-ayeeee.github.io/My-work/Slatslime/
