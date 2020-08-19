@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ### Spotify Playing 🎧
-[<img src="https://photos.app.goo.gl/jGmwBsL9ER22qnty6" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
 
 ### Connect with me:
 
