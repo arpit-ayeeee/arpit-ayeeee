@@ -8,6 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and work on my skills.
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
+![visitors](https://komarev.com/ghpvc/?username=arpit-ayeeee)
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Arpit's Spotify Playing" width="350" />](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS?si=dK8Dx6GvRQ6a_OdAWYMb-A)
 
@@ -35,7 +36,13 @@
 <code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
 
+## **My Status :**
+[![arpit-ayeeee github stats](https://github-readme-stats.vercel.app/api?username=arpit-ayeeee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/arpit-ayeeee/github-readme-stats)
 
+<a href="https://github.com/arpit-ayeeee/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-ayeeee&theme=radical&hide=glsl,python" />
+</a>
 
 [website]: https://frugaldrip.herokuapp.com
 [instagram]: https://instagram.com/arpit-ayeeeeeeeee
