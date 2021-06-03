@@ -1,7 +1,7 @@
 ### Hi there, I'm Arpit - aka arpit-ayeeee [website] 👋
 
 
-## I'm an Information Science Student, and Front-end Web Developer!
+## I'm an Information Science Student, and MERN Stack Developer!
 
 - 🌱 I’m currently learning to go MERN Stack.
 - 🔭 I’m currently looking for Front-end Web Dev internships!
