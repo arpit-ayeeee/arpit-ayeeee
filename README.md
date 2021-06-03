@@ -1,11 +1,11 @@
-### Hi there, I'm Arpit - aka arpit-ayeeee [website] 👋
+### Hi there, I'm Arpit aka arpit-ayeeee <!--[website] --> 👋
 
 
-## I'm an Information Science Student, and MERN Stack Developer!
+## I'm an Information Science Student,and MERN Stack Developer!
 
-- 🌱 I’m currently learning to go MERN Stack.
-- 🔭 I’m currently looking for Front-end Web Dev internships!
-- 🥅 2020 Goals: Contribute more to Open Source projects and work on my skills.
+- 🌱 I’m currently enhancing my skills in MERN and learning new technologies.
+- 🔭 I love to make websites and develop exciting eye-catchy features
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn GraphQL.
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ![visitors](https://komarev.com/ghpvc/?username=arpit-ayeeee)
