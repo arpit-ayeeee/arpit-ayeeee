@@ -1,4 +1,4 @@
-### Hi there, I'm Arpit aka arpit-ayeeee arpitjaiswal.me 👋
+### Hi there, I'm Arpit aka arpit-ayeeee [website] 👋
 
 
 ## I'm an Information Science Student,and MERN Stack Developer!
@@ -44,6 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-ayeeee&theme=radical&hide=glsl,python" />
 </a>
 
-[website]: https://frugaldrip.herokuapp.com
+[website]: https://arpitjaiswal.me
 [instagram]: https://instagram.com/arpit-ayeeeeeeeee
 [linkedin]: www.linkedin.com/in/arpit-jaiswal-a63076172
