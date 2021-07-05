@@ -1,4 +1,4 @@
-### Hi there, I'm Arpit aka arpit-ayeeee <!--[website] --> 👋
+### Hi there, I'm Arpit aka arpit-ayeeee arpitjaiswal.me 👋
 
 
 ## I'm an Information Science Student,and MERN Stack Developer!
