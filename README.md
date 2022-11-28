@@ -1,7 +1,7 @@
 ### Hi there, I'm Arpit aka arpit-ayeeee [website] 👋
 
 
-## I'm an Information Science Student,and MERN Stack Developer!
+## SDE-1@Tally (MERN, Angular, C++, Core)
 
 - 🌱 I’m currently enhancing my skills in MERN and learning new technologies.
 - 🔭 I love to make websites and develop exciting eye-catchy features
