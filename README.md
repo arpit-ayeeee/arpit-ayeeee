@@ -44,6 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-ayeeee&theme=radical&hide=glsl,python" />
 </a>
 
-[website]: https://arpitjaiswal.me
+[website]: https://jaiswalarpit.netlify.app/
 [instagram]: https://instagram.com/arpit-ayeeeeeeeee
 [linkedin]: www.linkedin.com/in/arpit-jaiswal-a63076172
