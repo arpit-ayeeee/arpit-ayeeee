@@ -1,9 +1,10 @@
 ### Hi there, I'm Arpit aka arpit-ayeeee [website] 👋
 
 
-## SDE-2@Tally (MERN, Angular, C++, Core, SQL, MongoDB)
+## SDE-2@Tally 
 
-- 🌱 I’m currently enhancing my skills in \Express, Node, React, learning Go and getting hands into Distributed Systems.
+- 🌱 Current tech stack: Express, Node, React, Javascript, Typescript, MySql, Sequelize, AWS.
+- 🌱 Learning Go and getting hands into Distributed Systems.
 - 🔭 I love to make websites and develop exciting eye-catchy features
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
