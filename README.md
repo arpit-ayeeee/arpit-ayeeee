@@ -1,11 +1,10 @@
 ### Hi there, I'm Arpit aka arpit-ayeeee [website] 👋
 
 
-## SDE-1@Tally (MERN, Angular, C++, Core)
+## SDE-2@Tally (MERN, Angular, C++, Core)
 
-- 🌱 I’m currently enhancing my skills in MERN and learning new technologies.
+- 🌱 I’m currently enhancing my skills in \Express, Node, React, learning Go and getting hands into Distributed Systems.
 - 🔭 I love to make websites and develop exciting eye-catchy features
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn GraphQL.
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ![visitors](https://komarev.com/ghpvc/?username=arpit-ayeeee)
