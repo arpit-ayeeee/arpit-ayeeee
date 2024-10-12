@@ -1,7 +1,7 @@
 ### Hi there, I'm Arpit aka arpit-ayeeee [website] 👋
 
 
-## SDE-2@Tally (MERN, Angular, C++, Core)
+## SDE-2@Tally (MERN, Angular, C++, Core, SQL, MongoDB)
 
 - 🌱 I’m currently enhancing my skills in \Express, Node, React, learning Go and getting hands into Distributed Systems.
 - 🔭 I love to make websites and develop exciting eye-catchy features
