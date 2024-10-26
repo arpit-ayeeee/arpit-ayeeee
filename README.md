@@ -3,9 +3,9 @@
 
 ## SDE-2@Tally 
 
-- 🌱 Current tech stack: Express, Node, React, Javascript, Typescript, MySql, Sequelize, AWS.
-- 🌱 Learning Go and getting hands into Distributed Systems.
-- 🔭 I love to make websites and develop exciting eye-catchy features
+- 🌱 Current tech stack: Express, Node, React, Javascript, Typescript, MySql, Sequelize, AWS. Contributing to the lending industry, helping MSMEs.
+- 🌱 Learning Golang and getting hands into Distributed Systems, System Design of complex architectures.
+- 🔭 Have had fair share in building frontend applications using React and Angular, currently focusing in backend and building highly scalable systems.
 - ⚡ Fun fact: I am a street fashion enthusiast and 90's rap guy.
 
 ![visitors](https://komarev.com/ghpvc/?username=arpit-ayeeee)
@@ -46,4 +46,4 @@
 
 [website]: https://jaiswalarpit.netlify.app/
 [instagram]: https://instagram.com/arpit-ayeeeeeeeee
-[linkedin]: www.linkedin.com/in/arpit-jaiswal-a63076172
+[linkedin]: www.linkedin.com/in/arpit28
